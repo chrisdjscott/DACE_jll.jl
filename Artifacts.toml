@@ -1,0 +1,119 @@
+[[DACE]]
+arch = "aarch64"
+git-tree-sha1 = "09e3d37187116f9fca0cbae25a357e8a6f11f15a"
+os = "macos"
+
+    [[DACE.download]]
+    sha256 = "a48184118dc0c8e85e707f0821295a3093c3b9d61c71521f8012390d350eaf34"
+    url = "https://github.com/chrisdjscott/DACE_jll.jl/releases/download/DACE-v0.0.1+0/DACE.v0.0.1.aarch64-apple-darwin.tar.gz"
+[[DACE]]
+arch = "aarch64"
+git-tree-sha1 = "80ddf35b5bf6ddc0616dda2c8398e364c035c3cf"
+libc = "glibc"
+os = "linux"
+
+    [[DACE.download]]
+    sha256 = "afcdb120ced851ff93c17cea17f8b1aeead0d4b2ce6e76e7bf7863f723786463"
+    url = "https://github.com/chrisdjscott/DACE_jll.jl/releases/download/DACE-v0.0.1+0/DACE.v0.0.1.aarch64-linux-gnu.tar.gz"
+[[DACE]]
+arch = "aarch64"
+git-tree-sha1 = "5a170b5c84af30bcdb6eae1e0bdc7f2d8239c4f0"
+libc = "musl"
+os = "linux"
+
+    [[DACE.download]]
+    sha256 = "0920ef18a18f4755efc1393d503a5ddf1c28226f40abde57b86730151d531502"
+    url = "https://github.com/chrisdjscott/DACE_jll.jl/releases/download/DACE-v0.0.1+0/DACE.v0.0.1.aarch64-linux-musl.tar.gz"
+[[DACE]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "3eff58af5f67a8446231f7e6099014d28fde365c"
+libc = "glibc"
+os = "linux"
+
+    [[DACE.download]]
+    sha256 = "bb11d46b996de854c83c9aa78d901addbcff82b503dba13922da9e626a6c1c40"
+    url = "https://github.com/chrisdjscott/DACE_jll.jl/releases/download/DACE-v0.0.1+0/DACE.v0.0.1.armv6l-linux-gnueabihf.tar.gz"
+[[DACE]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "f315120dbfeea539e05b341c872c5b92ac9ca761"
+libc = "musl"
+os = "linux"
+
+    [[DACE.download]]
+    sha256 = "272070fd5da616b06754dfd3b01bb0a90ce3b4ecbc438f2a1875abff8c332df7"
+    url = "https://github.com/chrisdjscott/DACE_jll.jl/releases/download/DACE-v0.0.1+0/DACE.v0.0.1.armv6l-linux-musleabihf.tar.gz"
+[[DACE]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "7cd3178f1593fb757453a09fe5cab7c467f0520f"
+libc = "glibc"
+os = "linux"
+
+    [[DACE.download]]
+    sha256 = "25b74bed6416cbfa65680307a5f60e1a4a618134ecab4687add80dde146b4e1f"
+    url = "https://github.com/chrisdjscott/DACE_jll.jl/releases/download/DACE-v0.0.1+0/DACE.v0.0.1.armv7l-linux-gnueabihf.tar.gz"
+[[DACE]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "76e0256743901da574dd22bcc19fe11c8e6842e3"
+libc = "musl"
+os = "linux"
+
+    [[DACE.download]]
+    sha256 = "310f39e564d09c8ca1afd4239f5a496085b6408ada6d8f7fd808c2a9cf978e28"
+    url = "https://github.com/chrisdjscott/DACE_jll.jl/releases/download/DACE-v0.0.1+0/DACE.v0.0.1.armv7l-linux-musleabihf.tar.gz"
+[[DACE]]
+arch = "i686"
+git-tree-sha1 = "0e3d929e7341e5f9b8254687e42c5ed2e80cf6ff"
+libc = "glibc"
+os = "linux"
+
+    [[DACE.download]]
+    sha256 = "a220ee7c3521ed7e80d02711595644dd025362de1ed0838e91aedafed1ce3bd1"
+    url = "https://github.com/chrisdjscott/DACE_jll.jl/releases/download/DACE-v0.0.1+0/DACE.v0.0.1.i686-linux-gnu.tar.gz"
+[[DACE]]
+arch = "i686"
+git-tree-sha1 = "89827317ba8c9e32734de5b756a4ad1c7b30c3e1"
+libc = "musl"
+os = "linux"
+
+    [[DACE.download]]
+    sha256 = "3b2b7b55a495b955c5264843924808a269dc8642fea259e3889ca79fe579c4dc"
+    url = "https://github.com/chrisdjscott/DACE_jll.jl/releases/download/DACE-v0.0.1+0/DACE.v0.0.1.i686-linux-musl.tar.gz"
+[[DACE]]
+arch = "powerpc64le"
+git-tree-sha1 = "fdcccb4b49cb24f6e2eff026756545753876bd3e"
+libc = "glibc"
+os = "linux"
+
+    [[DACE.download]]
+    sha256 = "601c83f8889d92f4f551f737a1b318b366be0f23009667f92a303334444521ca"
+    url = "https://github.com/chrisdjscott/DACE_jll.jl/releases/download/DACE-v0.0.1+0/DACE.v0.0.1.powerpc64le-linux-gnu.tar.gz"
+[[DACE]]
+arch = "x86_64"
+git-tree-sha1 = "fb387ee3571443d9e7638b4945682b59805eaef3"
+os = "macos"
+
+    [[DACE.download]]
+    sha256 = "655253e3e5dd609403152da0b17d8b6ccbabfb9f693f504cd2e1a775aeb0b9be"
+    url = "https://github.com/chrisdjscott/DACE_jll.jl/releases/download/DACE-v0.0.1+0/DACE.v0.0.1.x86_64-apple-darwin.tar.gz"
+[[DACE]]
+arch = "x86_64"
+git-tree-sha1 = "eac24f1c75b7082155dd54083392b85aa01da7de"
+libc = "glibc"
+os = "linux"
+
+    [[DACE.download]]
+    sha256 = "5c97eee7e6ff39a96112e15fdee384d43ab4fb096247d9422bdba8885ca5b3d7"
+    url = "https://github.com/chrisdjscott/DACE_jll.jl/releases/download/DACE-v0.0.1+0/DACE.v0.0.1.x86_64-linux-gnu.tar.gz"
+[[DACE]]
+arch = "x86_64"
+git-tree-sha1 = "544e9ba0d9ed462d5793155a58800306b8c61794"
+libc = "musl"
+os = "linux"
+
+    [[DACE.download]]
+    sha256 = "338237971ada887bb18fca8e8a4676c07bcad01ecc9c03905c811d8c9d32fe5b"
+    url = "https://github.com/chrisdjscott/DACE_jll.jl/releases/download/DACE-v0.0.1+0/DACE.v0.0.1.x86_64-linux-musl.tar.gz"
