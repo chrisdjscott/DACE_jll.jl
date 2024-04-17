@@ -6659,3 +6659,1333 @@ os = "windows"
     [[DACE.download]]
     sha256 = "71f557f467feadfda7800bb296267c6db7263992f6de71426477c402d4eef21b"
     url = "https://github.com/chrisdjscott/DACE_jll.jl/releases/download/DACE-v0.0.11+0/DACE.v0.0.11.x86_64-w64-mingw32-cxx11-julia_version+1.9.0.tar.gz"
+[[DACE]]
+arch = "aarch64"
+git-tree-sha1 = "f372c98bef04c83d707322fc4e79b5cc0d77ca0c"
+julia_version = "1.10.0"
+os = "macos"
+
+    [[DACE.download]]
+    sha256 = "1372e905222dc493a4fee68d8f4e9e753e110eb9208f8847b6367fedce9f92b2"
+    url = "https://github.com/chrisdjscott/DACE_jll.jl/releases/download/DACE-v0.0.12+0/DACE.v0.0.12.aarch64-apple-darwin-julia_version+1.10.0.tar.gz"
+[[DACE]]
+arch = "aarch64"
+git-tree-sha1 = "b32b4ed146f3d9176eaad8879d6c60728c14944d"
+julia_version = "1.11.0"
+os = "macos"
+
+    [[DACE.download]]
+    sha256 = "08508cc213d6480bef7168076c513f3931096b8cda1a0408430301903164babf"
+    url = "https://github.com/chrisdjscott/DACE_jll.jl/releases/download/DACE-v0.0.12+0/DACE.v0.0.12.aarch64-apple-darwin-julia_version+1.11.0.tar.gz"
+[[DACE]]
+arch = "aarch64"
+git-tree-sha1 = "29be2d3d056a1a4d46b7225789455d7fec1e5826"
+julia_version = "1.12.0"
+os = "macos"
+
+    [[DACE.download]]
+    sha256 = "7878e4aa021c84a9cd0b122f8b0f69fa54064ab53ed39ae31592e025d731c373"
+    url = "https://github.com/chrisdjscott/DACE_jll.jl/releases/download/DACE-v0.0.12+0/DACE.v0.0.12.aarch64-apple-darwin-julia_version+1.12.0.tar.gz"
+[[DACE]]
+arch = "aarch64"
+git-tree-sha1 = "1e63b86bf81bba50080d7b69866e5974059959cc"
+julia_version = "1.7.0"
+os = "macos"
+
+    [[DACE.download]]
+    sha256 = "06f8e39bd66a07c04c9b7249c2be1689de0d2f9f3bba40ff4e6659a502e84902"
+    url = "https://github.com/chrisdjscott/DACE_jll.jl/releases/download/DACE-v0.0.12+0/DACE.v0.0.12.aarch64-apple-darwin-julia_version+1.7.0.tar.gz"
+[[DACE]]
+arch = "aarch64"
+git-tree-sha1 = "da552a92f238edd58fa6ac0d3568b7e4d4bda170"
+julia_version = "1.8.2"
+os = "macos"
+
+    [[DACE.download]]
+    sha256 = "ad5522a6887f7f0a651bf529080b6d80918ae68c8a94723bc9869a3bb88e0283"
+    url = "https://github.com/chrisdjscott/DACE_jll.jl/releases/download/DACE-v0.0.12+0/DACE.v0.0.12.aarch64-apple-darwin-julia_version+1.8.2.tar.gz"
+[[DACE]]
+arch = "aarch64"
+git-tree-sha1 = "152254789d611539a91b211fa767b056e6a584dd"
+julia_version = "1.9.0"
+os = "macos"
+
+    [[DACE.download]]
+    sha256 = "fb16cb599f9daf6f35c2d7b44cefc53fe9b3610e0f37857d7112f3423385c2ed"
+    url = "https://github.com/chrisdjscott/DACE_jll.jl/releases/download/DACE-v0.0.12+0/DACE.v0.0.12.aarch64-apple-darwin-julia_version+1.9.0.tar.gz"
+[[DACE]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "10ad0571e7380dee040f544e348efca31d348ed5"
+julia_version = "1.10.0"
+libc = "glibc"
+os = "linux"
+
+    [[DACE.download]]
+    sha256 = "0f1393e135bf0c1e3c17650c2dbaa9a1ba16dae321a93dbd7b5e37b027b7fc9f"
+    url = "https://github.com/chrisdjscott/DACE_jll.jl/releases/download/DACE-v0.0.12+0/DACE.v0.0.12.aarch64-linux-gnu-cxx03-julia_version+1.10.0.tar.gz"
+[[DACE]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "291db537ff0e3ceba9b47b2c69654c090da366e6"
+julia_version = "1.11.0"
+libc = "glibc"
+os = "linux"
+
+    [[DACE.download]]
+    sha256 = "7a28088d4ed2bdece1e1fbeab9123da5c3df02167bf85f85f6dc6d10b1f41bfd"
+    url = "https://github.com/chrisdjscott/DACE_jll.jl/releases/download/DACE-v0.0.12+0/DACE.v0.0.12.aarch64-linux-gnu-cxx03-julia_version+1.11.0.tar.gz"
+[[DACE]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "d777a4ac653efd4fe79e1f1d27d3ed570e273fa3"
+julia_version = "1.12.0"
+libc = "glibc"
+os = "linux"
+
+    [[DACE.download]]
+    sha256 = "fdc310b8aec133cd6396bf9bc7726292b6a3410dbea65478e7516246320e2c8a"
+    url = "https://github.com/chrisdjscott/DACE_jll.jl/releases/download/DACE-v0.0.12+0/DACE.v0.0.12.aarch64-linux-gnu-cxx03-julia_version+1.12.0.tar.gz"
+[[DACE]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "278b11ef4c611959b4bd97d9e0408cc14f20ab95"
+julia_version = "1.6.3"
+libc = "glibc"
+os = "linux"
+
+    [[DACE.download]]
+    sha256 = "8cc2ac9182312fe37f053792a3a2ed5ad68e599ab0f1aa98e4f2c6c816e7401d"
+    url = "https://github.com/chrisdjscott/DACE_jll.jl/releases/download/DACE-v0.0.12+0/DACE.v0.0.12.aarch64-linux-gnu-cxx03-julia_version+1.6.3.tar.gz"
+[[DACE]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "9bcdc43994021f180621682660eb7c05e905766f"
+julia_version = "1.7.0"
+libc = "glibc"
+os = "linux"
+
+    [[DACE.download]]
+    sha256 = "293f5f50ef3b55884732a0ae2a21e8578ca0b96d16ce8e4e6f25876667567af3"
+    url = "https://github.com/chrisdjscott/DACE_jll.jl/releases/download/DACE-v0.0.12+0/DACE.v0.0.12.aarch64-linux-gnu-cxx03-julia_version+1.7.0.tar.gz"
+[[DACE]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "c87112ebed1696361f3bb59cabad41b0c26ee56a"
+julia_version = "1.8.2"
+libc = "glibc"
+os = "linux"
+
+    [[DACE.download]]
+    sha256 = "f8e96f598503b2408b6a6c1b22071c778af0a23ed6f817c41f583740c9cd28d4"
+    url = "https://github.com/chrisdjscott/DACE_jll.jl/releases/download/DACE-v0.0.12+0/DACE.v0.0.12.aarch64-linux-gnu-cxx03-julia_version+1.8.2.tar.gz"
+[[DACE]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "9a6f5da3fb14e78926790f807d55c2efb86f683f"
+julia_version = "1.9.0"
+libc = "glibc"
+os = "linux"
+
+    [[DACE.download]]
+    sha256 = "fb6abdd5118c96542971b1d973326207cb7b27204a3634757a535b1d6a5c2373"
+    url = "https://github.com/chrisdjscott/DACE_jll.jl/releases/download/DACE-v0.0.12+0/DACE.v0.0.12.aarch64-linux-gnu-cxx03-julia_version+1.9.0.tar.gz"
+[[DACE]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "01d934717ec50cb48c2e3fb3f5a9f7950676a2d8"
+julia_version = "1.10.0"
+libc = "glibc"
+os = "linux"
+
+    [[DACE.download]]
+    sha256 = "284bf4e733b2d28d10499a2fbd393654ea66ec1582b8d2e8c9a7933b27980f73"
+    url = "https://github.com/chrisdjscott/DACE_jll.jl/releases/download/DACE-v0.0.12+0/DACE.v0.0.12.aarch64-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
+[[DACE]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "d9f4226e8d9443eb445f06b3bf752e2b65a0d951"
+julia_version = "1.11.0"
+libc = "glibc"
+os = "linux"
+
+    [[DACE.download]]
+    sha256 = "e1a13933a0f6993b08f4f25e52495edcbb4f1419e1f7b7ed016da6ef29c40827"
+    url = "https://github.com/chrisdjscott/DACE_jll.jl/releases/download/DACE-v0.0.12+0/DACE.v0.0.12.aarch64-linux-gnu-cxx11-julia_version+1.11.0.tar.gz"
+[[DACE]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "9fa3de1c9c429f3893d17375581c87cf8e8d147a"
+julia_version = "1.12.0"
+libc = "glibc"
+os = "linux"
+
+    [[DACE.download]]
+    sha256 = "f1ab6f6337e5c1692cd19daf7d875483f59dcc1847f25c4ba47a09891ebfdbef"
+    url = "https://github.com/chrisdjscott/DACE_jll.jl/releases/download/DACE-v0.0.12+0/DACE.v0.0.12.aarch64-linux-gnu-cxx11-julia_version+1.12.0.tar.gz"
+[[DACE]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "d9782c95f0d9cd3d7e6dc5aa353e0e9f7c91b348"
+julia_version = "1.6.3"
+libc = "glibc"
+os = "linux"
+
+    [[DACE.download]]
+    sha256 = "436571a2b255c2d64547695963fe755e00310707425fcbfb01f6c04b4e3cd170"
+    url = "https://github.com/chrisdjscott/DACE_jll.jl/releases/download/DACE-v0.0.12+0/DACE.v0.0.12.aarch64-linux-gnu-cxx11-julia_version+1.6.3.tar.gz"
+[[DACE]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "15e8c84f34f32e0a89c6d62524daab1544bfdb96"
+julia_version = "1.7.0"
+libc = "glibc"
+os = "linux"
+
+    [[DACE.download]]
+    sha256 = "81dabb024f3c30935d66b4a1335c16ce08670f9fb65c453e9c9a393df877a673"
+    url = "https://github.com/chrisdjscott/DACE_jll.jl/releases/download/DACE-v0.0.12+0/DACE.v0.0.12.aarch64-linux-gnu-cxx11-julia_version+1.7.0.tar.gz"
+[[DACE]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "f79e1574228dd69e904dafb312aeb059a92ff801"
+julia_version = "1.8.2"
+libc = "glibc"
+os = "linux"
+
+    [[DACE.download]]
+    sha256 = "b426e34465004b0a756d1ecb95de00c43cdbc29b4d7d82d3f303b5620aac5b56"
+    url = "https://github.com/chrisdjscott/DACE_jll.jl/releases/download/DACE-v0.0.12+0/DACE.v0.0.12.aarch64-linux-gnu-cxx11-julia_version+1.8.2.tar.gz"
+[[DACE]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "0d83f77d4dd3c1a6e7ed1b8b5766655633076cdf"
+julia_version = "1.9.0"
+libc = "glibc"
+os = "linux"
+
+    [[DACE.download]]
+    sha256 = "afa8fd27b39babbde42fa256eccf7f8b4353915554fc68562b7088f164a71bc2"
+    url = "https://github.com/chrisdjscott/DACE_jll.jl/releases/download/DACE-v0.0.12+0/DACE.v0.0.12.aarch64-linux-gnu-cxx11-julia_version+1.9.0.tar.gz"
+[[DACE]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "c3d6718999074bc63e22f2f301bb2612ba34f4b1"
+julia_version = "1.10.0"
+libc = "musl"
+os = "linux"
+
+    [[DACE.download]]
+    sha256 = "d9cde958c46edd8b454b69cf4c396b56954015dd57090985870a54fe6d1ea6fd"
+    url = "https://github.com/chrisdjscott/DACE_jll.jl/releases/download/DACE-v0.0.12+0/DACE.v0.0.12.aarch64-linux-musl-cxx03-julia_version+1.10.0.tar.gz"
+[[DACE]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "f91c0d28cce61a9cdd312881c052351de19c229c"
+julia_version = "1.11.0"
+libc = "musl"
+os = "linux"
+
+    [[DACE.download]]
+    sha256 = "74514ec6b7a441846a35440e22becd35b9f3966e1a92802df776c6b2ddd3ba5a"
+    url = "https://github.com/chrisdjscott/DACE_jll.jl/releases/download/DACE-v0.0.12+0/DACE.v0.0.12.aarch64-linux-musl-cxx03-julia_version+1.11.0.tar.gz"
+[[DACE]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "00a9b18367db8ca93dbfd0d3d51f1360df05732c"
+julia_version = "1.12.0"
+libc = "musl"
+os = "linux"
+
+    [[DACE.download]]
+    sha256 = "b268ae06a4722eea5bcaf3751ef76732c18ab57a505e59b13fe0d825898aa277"
+    url = "https://github.com/chrisdjscott/DACE_jll.jl/releases/download/DACE-v0.0.12+0/DACE.v0.0.12.aarch64-linux-musl-cxx03-julia_version+1.12.0.tar.gz"
+[[DACE]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "3bc81d16aa155a575962232ae8e320b92b5a07a0"
+julia_version = "1.6.3"
+libc = "musl"
+os = "linux"
+
+    [[DACE.download]]
+    sha256 = "7240b813401b10bb3ee3ec7a7af18dfe3a7b6f962bb22ca7a14d6d5245dc02d9"
+    url = "https://github.com/chrisdjscott/DACE_jll.jl/releases/download/DACE-v0.0.12+0/DACE.v0.0.12.aarch64-linux-musl-cxx03-julia_version+1.6.3.tar.gz"
+[[DACE]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "3dbb04481bd5ea7ca4a732021a293e5354db6455"
+julia_version = "1.7.0"
+libc = "musl"
+os = "linux"
+
+    [[DACE.download]]
+    sha256 = "fa7fa0cf14f8f995c10d2662ff607cc8a4aa2e84b17145a65e69eafadcff062e"
+    url = "https://github.com/chrisdjscott/DACE_jll.jl/releases/download/DACE-v0.0.12+0/DACE.v0.0.12.aarch64-linux-musl-cxx03-julia_version+1.7.0.tar.gz"
+[[DACE]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "d2e9315a9042da54891e0ab4166bee52d0ba66e6"
+julia_version = "1.8.2"
+libc = "musl"
+os = "linux"
+
+    [[DACE.download]]
+    sha256 = "a4912569c68914d15dacc3ae4a74544bce2940173ab42c2e25a7f147a70f4309"
+    url = "https://github.com/chrisdjscott/DACE_jll.jl/releases/download/DACE-v0.0.12+0/DACE.v0.0.12.aarch64-linux-musl-cxx03-julia_version+1.8.2.tar.gz"
+[[DACE]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "5c6857cfff6b88af7b0d44738aa273576ccc9f32"
+julia_version = "1.9.0"
+libc = "musl"
+os = "linux"
+
+    [[DACE.download]]
+    sha256 = "8e2662438dfac2d89e35b8f6bb1abc36a5752bc46eda5a28f5ded8276433d248"
+    url = "https://github.com/chrisdjscott/DACE_jll.jl/releases/download/DACE-v0.0.12+0/DACE.v0.0.12.aarch64-linux-musl-cxx03-julia_version+1.9.0.tar.gz"
+[[DACE]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "608ec8224493e213ab327a9179ea51777628d46e"
+julia_version = "1.10.0"
+libc = "musl"
+os = "linux"
+
+    [[DACE.download]]
+    sha256 = "66888a73c126660a99a1cd378fab9bb24ae3005647f7632fe8016c6bf299957a"
+    url = "https://github.com/chrisdjscott/DACE_jll.jl/releases/download/DACE-v0.0.12+0/DACE.v0.0.12.aarch64-linux-musl-cxx11-julia_version+1.10.0.tar.gz"
+[[DACE]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "5bd72b66439294f75cf8228a7b83a5ab6a3a81d6"
+julia_version = "1.11.0"
+libc = "musl"
+os = "linux"
+
+    [[DACE.download]]
+    sha256 = "6d0d1e1b6502bee52b51139f7390d35e11930b7209a533cc3455017155f9c5a2"
+    url = "https://github.com/chrisdjscott/DACE_jll.jl/releases/download/DACE-v0.0.12+0/DACE.v0.0.12.aarch64-linux-musl-cxx11-julia_version+1.11.0.tar.gz"
+[[DACE]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "28d4dc951271a866a1e6e4fb7081da436773069f"
+julia_version = "1.12.0"
+libc = "musl"
+os = "linux"
+
+    [[DACE.download]]
+    sha256 = "650529fa04b845cdfaa7db620b640215039da64f7a47e869e6e0c4787a94b908"
+    url = "https://github.com/chrisdjscott/DACE_jll.jl/releases/download/DACE-v0.0.12+0/DACE.v0.0.12.aarch64-linux-musl-cxx11-julia_version+1.12.0.tar.gz"
+[[DACE]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "dfe79c70967ec8668d66e41e98cd3b25a8280960"
+julia_version = "1.6.3"
+libc = "musl"
+os = "linux"
+
+    [[DACE.download]]
+    sha256 = "b81a9efdda43027513af49baacb71d043964fa71b2f9cbadb4c183806afbc4c1"
+    url = "https://github.com/chrisdjscott/DACE_jll.jl/releases/download/DACE-v0.0.12+0/DACE.v0.0.12.aarch64-linux-musl-cxx11-julia_version+1.6.3.tar.gz"
+[[DACE]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "5537a8d6519f762f1a0ca337f8d137cbfcbb491c"
+julia_version = "1.7.0"
+libc = "musl"
+os = "linux"
+
+    [[DACE.download]]
+    sha256 = "39e83d54f790d8ad020ee079c5b39d25867c7ecb86852049b3e441829a0d218e"
+    url = "https://github.com/chrisdjscott/DACE_jll.jl/releases/download/DACE-v0.0.12+0/DACE.v0.0.12.aarch64-linux-musl-cxx11-julia_version+1.7.0.tar.gz"
+[[DACE]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "c72b14d4eb2dd021532b95f579b82f7c6315f2c4"
+julia_version = "1.8.2"
+libc = "musl"
+os = "linux"
+
+    [[DACE.download]]
+    sha256 = "d309d9838b3eed5a2232a78dafefd9bb303c7e7833fcec1b2d0405416840e9a3"
+    url = "https://github.com/chrisdjscott/DACE_jll.jl/releases/download/DACE-v0.0.12+0/DACE.v0.0.12.aarch64-linux-musl-cxx11-julia_version+1.8.2.tar.gz"
+[[DACE]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "1464839646f6c247c6e1d71ac728442db09d0a00"
+julia_version = "1.9.0"
+libc = "musl"
+os = "linux"
+
+    [[DACE.download]]
+    sha256 = "c0322d35f3c334cb30125b83994094971ec7773ded3cef1e975157d0b67aa088"
+    url = "https://github.com/chrisdjscott/DACE_jll.jl/releases/download/DACE-v0.0.12+0/DACE.v0.0.12.aarch64-linux-musl-cxx11-julia_version+1.9.0.tar.gz"
+[[DACE]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "82a6477ca7bf9ea24a4e9e0fef419549ec2bb0d1"
+julia_version = "1.7.0"
+libc = "glibc"
+os = "linux"
+
+    [[DACE.download]]
+    sha256 = "48fd803a6e781aecb9fe41f191713fcbd01f0d963c01ff92710e4aef3a2a02e6"
+    url = "https://github.com/chrisdjscott/DACE_jll.jl/releases/download/DACE-v0.0.12+0/DACE.v0.0.12.armv6l-linux-gnueabihf-cxx03-julia_version+1.7.0.tar.gz"
+[[DACE]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "57b652a2514764cc39e07726eddc8d628d39ce6a"
+julia_version = "1.8.2"
+libc = "glibc"
+os = "linux"
+
+    [[DACE.download]]
+    sha256 = "529268415c6f6c227e967c11f380354ffe48326c8a5bd7ad681e6f1d82f34a44"
+    url = "https://github.com/chrisdjscott/DACE_jll.jl/releases/download/DACE-v0.0.12+0/DACE.v0.0.12.armv6l-linux-gnueabihf-cxx03-julia_version+1.8.2.tar.gz"
+[[DACE]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "2b43b41f36904eb1b923081619c2d23d0999a5a5"
+julia_version = "1.7.0"
+libc = "glibc"
+os = "linux"
+
+    [[DACE.download]]
+    sha256 = "ea585bfb21cbfce86a18cd27c5bb7e23157907c71d0985a53884907bb008d3fa"
+    url = "https://github.com/chrisdjscott/DACE_jll.jl/releases/download/DACE-v0.0.12+0/DACE.v0.0.12.armv6l-linux-gnueabihf-cxx11-julia_version+1.7.0.tar.gz"
+[[DACE]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "def7b656527f7862da0bc0002dd5978eb2ecb3d7"
+julia_version = "1.8.2"
+libc = "glibc"
+os = "linux"
+
+    [[DACE.download]]
+    sha256 = "0f62f2452878cc44635caa9a07e4501d6ac56311143716bd3ea1c9cb6a15851a"
+    url = "https://github.com/chrisdjscott/DACE_jll.jl/releases/download/DACE-v0.0.12+0/DACE.v0.0.12.armv6l-linux-gnueabihf-cxx11-julia_version+1.8.2.tar.gz"
+[[DACE]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "e63a57ea19c180b6265fbe76d86e4fc303240ffa"
+julia_version = "1.7.0"
+libc = "musl"
+os = "linux"
+
+    [[DACE.download]]
+    sha256 = "1e4f2429c2d7db1f8333a540dd83d2b5c2ae17a522ade7c75d68738ee23bb9f3"
+    url = "https://github.com/chrisdjscott/DACE_jll.jl/releases/download/DACE-v0.0.12+0/DACE.v0.0.12.armv6l-linux-musleabihf-cxx03-julia_version+1.7.0.tar.gz"
+[[DACE]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "f56b21c85d24613ffd7de40a790f3cb2752d5065"
+julia_version = "1.8.2"
+libc = "musl"
+os = "linux"
+
+    [[DACE.download]]
+    sha256 = "6e442d4aaa846ad1e7fdd2e8c8a778d510145dc8584a67713cb56620751312b3"
+    url = "https://github.com/chrisdjscott/DACE_jll.jl/releases/download/DACE-v0.0.12+0/DACE.v0.0.12.armv6l-linux-musleabihf-cxx03-julia_version+1.8.2.tar.gz"
+[[DACE]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "3e11a783e3e4b4529c353d843f3813e423cca384"
+julia_version = "1.7.0"
+libc = "musl"
+os = "linux"
+
+    [[DACE.download]]
+    sha256 = "f98bee360dcb3702340959e8a4fba03e0145ff28799dd13da931327e9f70c7b4"
+    url = "https://github.com/chrisdjscott/DACE_jll.jl/releases/download/DACE-v0.0.12+0/DACE.v0.0.12.armv6l-linux-musleabihf-cxx11-julia_version+1.7.0.tar.gz"
+[[DACE]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "90e21d39c5d9da4874714ff0479c249cad03c019"
+julia_version = "1.8.2"
+libc = "musl"
+os = "linux"
+
+    [[DACE.download]]
+    sha256 = "8cce4ba46e6559165390c818852164d965a14c086ced6637ac9e08d2dabecbcd"
+    url = "https://github.com/chrisdjscott/DACE_jll.jl/releases/download/DACE-v0.0.12+0/DACE.v0.0.12.armv6l-linux-musleabihf-cxx11-julia_version+1.8.2.tar.gz"
+[[DACE]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "d914b60617d2e671093e3b69b2ee829f440fe131"
+julia_version = "1.6.3"
+libc = "glibc"
+os = "linux"
+
+    [[DACE.download]]
+    sha256 = "38ed9f7621dd7529238a8fe720eeb7f44580367daf52e7a3308a6d9134723d79"
+    url = "https://github.com/chrisdjscott/DACE_jll.jl/releases/download/DACE-v0.0.12+0/DACE.v0.0.12.armv7l-linux-gnueabihf-cxx03-julia_version+1.6.3.tar.gz"
+[[DACE]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "8b2ee496ecc7d4057c70a4d0e14284ed0f5accea"
+julia_version = "1.7.0"
+libc = "glibc"
+os = "linux"
+
+    [[DACE.download]]
+    sha256 = "4bb0aa2b5df33c801058ca511307c1ad60f18d0c241f684236610eaf72a96b1c"
+    url = "https://github.com/chrisdjscott/DACE_jll.jl/releases/download/DACE-v0.0.12+0/DACE.v0.0.12.armv7l-linux-gnueabihf-cxx03-julia_version+1.7.0.tar.gz"
+[[DACE]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "c98164e89f8a5a0f7f5b9ad1b3f8be70c617835c"
+julia_version = "1.8.2"
+libc = "glibc"
+os = "linux"
+
+    [[DACE.download]]
+    sha256 = "4e117ca640bbdb2f324a048123cacca2888f40cf601de7eb1e77821e5400e7f2"
+    url = "https://github.com/chrisdjscott/DACE_jll.jl/releases/download/DACE-v0.0.12+0/DACE.v0.0.12.armv7l-linux-gnueabihf-cxx03-julia_version+1.8.2.tar.gz"
+[[DACE]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "42d74847cf42f860ff8357d868f170ccac19a82c"
+julia_version = "1.6.3"
+libc = "glibc"
+os = "linux"
+
+    [[DACE.download]]
+    sha256 = "42c2beb397a3617f264077567f476d3acaec9a63c580857631c4b5fd827907e6"
+    url = "https://github.com/chrisdjscott/DACE_jll.jl/releases/download/DACE-v0.0.12+0/DACE.v0.0.12.armv7l-linux-gnueabihf-cxx11-julia_version+1.6.3.tar.gz"
+[[DACE]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "586af960669fe0207c707e5321d22cf3a37207aa"
+julia_version = "1.7.0"
+libc = "glibc"
+os = "linux"
+
+    [[DACE.download]]
+    sha256 = "cc5a8d84380dec22b318b93a847b9d0675298c3864324c0c6a050e5bee1b17fc"
+    url = "https://github.com/chrisdjscott/DACE_jll.jl/releases/download/DACE-v0.0.12+0/DACE.v0.0.12.armv7l-linux-gnueabihf-cxx11-julia_version+1.7.0.tar.gz"
+[[DACE]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "9ffdbee362ef17ec304426875b3aaaee11289489"
+julia_version = "1.8.2"
+libc = "glibc"
+os = "linux"
+
+    [[DACE.download]]
+    sha256 = "ada95078588e45f08f62b5a616f5a623544711f48615e638dec24649312ed8b0"
+    url = "https://github.com/chrisdjscott/DACE_jll.jl/releases/download/DACE-v0.0.12+0/DACE.v0.0.12.armv7l-linux-gnueabihf-cxx11-julia_version+1.8.2.tar.gz"
+[[DACE]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "ce2a713be405689b68e7bfbd859ed2ccd6bb260c"
+julia_version = "1.6.3"
+libc = "musl"
+os = "linux"
+
+    [[DACE.download]]
+    sha256 = "5a176eeb0d9668f71b3d50c8e29d7085007dc81eec49610ddf9b372c82081b8e"
+    url = "https://github.com/chrisdjscott/DACE_jll.jl/releases/download/DACE-v0.0.12+0/DACE.v0.0.12.armv7l-linux-musleabihf-cxx03-julia_version+1.6.3.tar.gz"
+[[DACE]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "8662c14878dc545fcaf033f1adc6f132d0ed289d"
+julia_version = "1.7.0"
+libc = "musl"
+os = "linux"
+
+    [[DACE.download]]
+    sha256 = "96a854e3249d7ad67a8aa18823e40cbc161d455d50a49863a474990348617c40"
+    url = "https://github.com/chrisdjscott/DACE_jll.jl/releases/download/DACE-v0.0.12+0/DACE.v0.0.12.armv7l-linux-musleabihf-cxx03-julia_version+1.7.0.tar.gz"
+[[DACE]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "84d7ed25fad8f9cbc147d170eb18e140ac25b906"
+julia_version = "1.8.2"
+libc = "musl"
+os = "linux"
+
+    [[DACE.download]]
+    sha256 = "3425464a80b3ff279e1b5584004704b5de6f41b6ad952196bba50bc3f0f01032"
+    url = "https://github.com/chrisdjscott/DACE_jll.jl/releases/download/DACE-v0.0.12+0/DACE.v0.0.12.armv7l-linux-musleabihf-cxx03-julia_version+1.8.2.tar.gz"
+[[DACE]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "a574d6f1605c4b702bf011ec726978b1f7cb1ac6"
+julia_version = "1.6.3"
+libc = "musl"
+os = "linux"
+
+    [[DACE.download]]
+    sha256 = "f4b4cc1aec506329b0fe68d3dd54c1585cc583004c52fd3382c00a8b5c7c0353"
+    url = "https://github.com/chrisdjscott/DACE_jll.jl/releases/download/DACE-v0.0.12+0/DACE.v0.0.12.armv7l-linux-musleabihf-cxx11-julia_version+1.6.3.tar.gz"
+[[DACE]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "2feafa8be6dbfed3ecd8f67d789807c6886f2ca7"
+julia_version = "1.7.0"
+libc = "musl"
+os = "linux"
+
+    [[DACE.download]]
+    sha256 = "db2d18ee3331faa8c878d7efb32c7dbfcb17b70122a9b3d53c1d9f2c65aa1dca"
+    url = "https://github.com/chrisdjscott/DACE_jll.jl/releases/download/DACE-v0.0.12+0/DACE.v0.0.12.armv7l-linux-musleabihf-cxx11-julia_version+1.7.0.tar.gz"
+[[DACE]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "3ce7b8fecf262254f48f650a8ad73c7b756a23e0"
+julia_version = "1.8.2"
+libc = "musl"
+os = "linux"
+
+    [[DACE.download]]
+    sha256 = "f267457e33b5be67f1b50a3824c593996549137cab52992edbe5b97b0eee2996"
+    url = "https://github.com/chrisdjscott/DACE_jll.jl/releases/download/DACE-v0.0.12+0/DACE.v0.0.12.armv7l-linux-musleabihf-cxx11-julia_version+1.8.2.tar.gz"
+[[DACE]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "a6bbfde12aac253c97a025a21e8976a0877b6d2b"
+julia_version = "1.10.0"
+libc = "glibc"
+os = "linux"
+
+    [[DACE.download]]
+    sha256 = "0e26e5966810279a9f4ec9fc1fcf3ef32321afa1da4dfe54a9aec20675d0fb12"
+    url = "https://github.com/chrisdjscott/DACE_jll.jl/releases/download/DACE-v0.0.12+0/DACE.v0.0.12.powerpc64le-linux-gnu-cxx03-julia_version+1.10.0.tar.gz"
+[[DACE]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "15158e46ec886a26c958fa564042190a8c00c7c7"
+julia_version = "1.11.0"
+libc = "glibc"
+os = "linux"
+
+    [[DACE.download]]
+    sha256 = "bd67a572e897df08635cb34388f7b3e34e0a9764157e169004ac21af5905df4f"
+    url = "https://github.com/chrisdjscott/DACE_jll.jl/releases/download/DACE-v0.0.12+0/DACE.v0.0.12.powerpc64le-linux-gnu-cxx03-julia_version+1.11.0.tar.gz"
+[[DACE]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "07a903e6bdcbf0e9895ebf2dd74edc547e0089df"
+julia_version = "1.12.0"
+libc = "glibc"
+os = "linux"
+
+    [[DACE.download]]
+    sha256 = "42b0469a836c1afb726466f71184e56b9a638f77795622628f3e3b39af58e799"
+    url = "https://github.com/chrisdjscott/DACE_jll.jl/releases/download/DACE-v0.0.12+0/DACE.v0.0.12.powerpc64le-linux-gnu-cxx03-julia_version+1.12.0.tar.gz"
+[[DACE]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "c988f32276d1873694a71da00b532f819cff5ded"
+julia_version = "1.6.3"
+libc = "glibc"
+os = "linux"
+
+    [[DACE.download]]
+    sha256 = "d2e7c643e0c2d596b7b47885b33b55a3b3a18c77603fe961aed488225e143cd9"
+    url = "https://github.com/chrisdjscott/DACE_jll.jl/releases/download/DACE-v0.0.12+0/DACE.v0.0.12.powerpc64le-linux-gnu-cxx03-julia_version+1.6.3.tar.gz"
+[[DACE]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "1affbadbdc25ee0cc9de8a4a17be1ef650aea1be"
+julia_version = "1.7.0"
+libc = "glibc"
+os = "linux"
+
+    [[DACE.download]]
+    sha256 = "d84baa879ead6157047d3e03cf4a0154a0e69b26aac7f21b0289fd25cec2daee"
+    url = "https://github.com/chrisdjscott/DACE_jll.jl/releases/download/DACE-v0.0.12+0/DACE.v0.0.12.powerpc64le-linux-gnu-cxx03-julia_version+1.7.0.tar.gz"
+[[DACE]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "2a3d30ac5db90de47d0728bc917c5d9f34018cc3"
+julia_version = "1.8.2"
+libc = "glibc"
+os = "linux"
+
+    [[DACE.download]]
+    sha256 = "776bad8e675e27669ca6afcf3255653e2bdca074b96ab26743e2433ffa05f22d"
+    url = "https://github.com/chrisdjscott/DACE_jll.jl/releases/download/DACE-v0.0.12+0/DACE.v0.0.12.powerpc64le-linux-gnu-cxx03-julia_version+1.8.2.tar.gz"
+[[DACE]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "bc875861f5cd943cf2b3c92295bdfaa43aee3db3"
+julia_version = "1.9.0"
+libc = "glibc"
+os = "linux"
+
+    [[DACE.download]]
+    sha256 = "41a75179814d1144ee0b9329ab4e164817bc81df2154c36d35e95379e7dbd391"
+    url = "https://github.com/chrisdjscott/DACE_jll.jl/releases/download/DACE-v0.0.12+0/DACE.v0.0.12.powerpc64le-linux-gnu-cxx03-julia_version+1.9.0.tar.gz"
+[[DACE]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "55f090c0fc3c8442484d33b0e73eb9ad17aa1fce"
+julia_version = "1.10.0"
+libc = "glibc"
+os = "linux"
+
+    [[DACE.download]]
+    sha256 = "268408cd33a8e6b12a745b4fbcc2f92af7a43d2ec3528c350aa24a82e01fcdcb"
+    url = "https://github.com/chrisdjscott/DACE_jll.jl/releases/download/DACE-v0.0.12+0/DACE.v0.0.12.powerpc64le-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
+[[DACE]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "dca4ca5a6d0cd647b8604294ebf0c34734998b0d"
+julia_version = "1.11.0"
+libc = "glibc"
+os = "linux"
+
+    [[DACE.download]]
+    sha256 = "69e1e92ebee5016fb3befe6db6b1a697c5bf20c9d36bea7816aba6ce68d450a1"
+    url = "https://github.com/chrisdjscott/DACE_jll.jl/releases/download/DACE-v0.0.12+0/DACE.v0.0.12.powerpc64le-linux-gnu-cxx11-julia_version+1.11.0.tar.gz"
+[[DACE]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "4d93952d8feb5974ef91ed78fdf827648d21e138"
+julia_version = "1.12.0"
+libc = "glibc"
+os = "linux"
+
+    [[DACE.download]]
+    sha256 = "0d804598b2f86dffebf19a259cc2c2e1da37a2ca674c67e820be768d013674e1"
+    url = "https://github.com/chrisdjscott/DACE_jll.jl/releases/download/DACE-v0.0.12+0/DACE.v0.0.12.powerpc64le-linux-gnu-cxx11-julia_version+1.12.0.tar.gz"
+[[DACE]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "92bd361fc0339ac0f4318e35144075f77af0a734"
+julia_version = "1.6.3"
+libc = "glibc"
+os = "linux"
+
+    [[DACE.download]]
+    sha256 = "cc936d71467fab7d57aadb3819362cf8b1382e62706f7f5263745add353550d1"
+    url = "https://github.com/chrisdjscott/DACE_jll.jl/releases/download/DACE-v0.0.12+0/DACE.v0.0.12.powerpc64le-linux-gnu-cxx11-julia_version+1.6.3.tar.gz"
+[[DACE]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "d16d630c9c5b0dd1efed36f9ddb1709fb8a25a1a"
+julia_version = "1.7.0"
+libc = "glibc"
+os = "linux"
+
+    [[DACE.download]]
+    sha256 = "82a2e61dc66d3a1b9a6f1e47fea9cb37818db5c6abf6b76e1ca911ca0aafe832"
+    url = "https://github.com/chrisdjscott/DACE_jll.jl/releases/download/DACE-v0.0.12+0/DACE.v0.0.12.powerpc64le-linux-gnu-cxx11-julia_version+1.7.0.tar.gz"
+[[DACE]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "423c3462690df7ecf2d57041b1417231dfc38ec9"
+julia_version = "1.8.2"
+libc = "glibc"
+os = "linux"
+
+    [[DACE.download]]
+    sha256 = "f8b7870c23573e5626b9c308e7bb228e6cbff30b62a7b2d640232a536093ee9a"
+    url = "https://github.com/chrisdjscott/DACE_jll.jl/releases/download/DACE-v0.0.12+0/DACE.v0.0.12.powerpc64le-linux-gnu-cxx11-julia_version+1.8.2.tar.gz"
+[[DACE]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "01d777211d1eb98a455b2d28812975603816b789"
+julia_version = "1.9.0"
+libc = "glibc"
+os = "linux"
+
+    [[DACE.download]]
+    sha256 = "1afed3409e46a0eb4badc6ec345e17df70e2b60051c9d4c8d5c0a89d9abe7648"
+    url = "https://github.com/chrisdjscott/DACE_jll.jl/releases/download/DACE-v0.0.12+0/DACE.v0.0.12.powerpc64le-linux-gnu-cxx11-julia_version+1.9.0.tar.gz"
+[[DACE]]
+arch = "x86_64"
+git-tree-sha1 = "290af88cd210ec9d8a9b76990098d50425d25107"
+julia_version = "1.10.0"
+os = "macos"
+
+    [[DACE.download]]
+    sha256 = "7b88e2740c7a14983bbf9a847cc303bce4aad0f4ae9db0ee1e9531cd077bff7b"
+    url = "https://github.com/chrisdjscott/DACE_jll.jl/releases/download/DACE-v0.0.12+0/DACE.v0.0.12.x86_64-apple-darwin-julia_version+1.10.0.tar.gz"
+[[DACE]]
+arch = "x86_64"
+git-tree-sha1 = "7d63518634511bc3449ef7129bc298ad10a6620f"
+julia_version = "1.11.0"
+os = "macos"
+
+    [[DACE.download]]
+    sha256 = "93a22371f16f681a55fcf6d7fe7cc214eba118da7c407897b36f5d5f2b0afecb"
+    url = "https://github.com/chrisdjscott/DACE_jll.jl/releases/download/DACE-v0.0.12+0/DACE.v0.0.12.x86_64-apple-darwin-julia_version+1.11.0.tar.gz"
+[[DACE]]
+arch = "x86_64"
+git-tree-sha1 = "ab6c28ad6abda5546b9a531ddde3fc349f6cc729"
+julia_version = "1.12.0"
+os = "macos"
+
+    [[DACE.download]]
+    sha256 = "7bd59ad279371e06e7a3ac849db39488f1468eaa47ae5a34fc95be6af4a5cf36"
+    url = "https://github.com/chrisdjscott/DACE_jll.jl/releases/download/DACE-v0.0.12+0/DACE.v0.0.12.x86_64-apple-darwin-julia_version+1.12.0.tar.gz"
+[[DACE]]
+arch = "x86_64"
+git-tree-sha1 = "2a2f9a4b6d125351f94146d3f9cb34d22408ab3c"
+julia_version = "1.6.3"
+os = "macos"
+
+    [[DACE.download]]
+    sha256 = "60d134a75006d8c0ad18b2bd7a36e27844d8d97691454fc7d472cbcd118b5029"
+    url = "https://github.com/chrisdjscott/DACE_jll.jl/releases/download/DACE-v0.0.12+0/DACE.v0.0.12.x86_64-apple-darwin-julia_version+1.6.3.tar.gz"
+[[DACE]]
+arch = "x86_64"
+git-tree-sha1 = "9683e201724754a12ce70e2cc62e875891848954"
+julia_version = "1.7.0"
+os = "macos"
+
+    [[DACE.download]]
+    sha256 = "25444eb71336fcfdb1949e56fc96668147df09d21cb02ce34318b8ff235c808a"
+    url = "https://github.com/chrisdjscott/DACE_jll.jl/releases/download/DACE-v0.0.12+0/DACE.v0.0.12.x86_64-apple-darwin-julia_version+1.7.0.tar.gz"
+[[DACE]]
+arch = "x86_64"
+git-tree-sha1 = "e34f09d26a944345aa82408a731573585e2b4d20"
+julia_version = "1.8.2"
+os = "macos"
+
+    [[DACE.download]]
+    sha256 = "f85f19c92e7956d2e267a19f439bb5494e80265d53c8104fe40b7ed5651ca32d"
+    url = "https://github.com/chrisdjscott/DACE_jll.jl/releases/download/DACE-v0.0.12+0/DACE.v0.0.12.x86_64-apple-darwin-julia_version+1.8.2.tar.gz"
+[[DACE]]
+arch = "x86_64"
+git-tree-sha1 = "5d00e1e2a17111f5ad62348cff7eba70b820e104"
+julia_version = "1.9.0"
+os = "macos"
+
+    [[DACE.download]]
+    sha256 = "acd17a385a350c7caefbc433b9ca4f9575ed7161649c557852543ec252ede6c0"
+    url = "https://github.com/chrisdjscott/DACE_jll.jl/releases/download/DACE-v0.0.12+0/DACE.v0.0.12.x86_64-apple-darwin-julia_version+1.9.0.tar.gz"
+[[DACE]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "49efdb7df19b2d44c1764519521e41c9096ed7c1"
+julia_version = "1.10.0"
+libc = "glibc"
+os = "linux"
+
+    [[DACE.download]]
+    sha256 = "4bb3edd98704cd0a2d3d1bfed6abac6272898755981f5ddc2dd8091a8b212c58"
+    url = "https://github.com/chrisdjscott/DACE_jll.jl/releases/download/DACE-v0.0.12+0/DACE.v0.0.12.x86_64-linux-gnu-cxx03-julia_version+1.10.0.tar.gz"
+[[DACE]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "fa57751a1497a79047564bfce8e317f465577adf"
+julia_version = "1.11.0"
+libc = "glibc"
+os = "linux"
+
+    [[DACE.download]]
+    sha256 = "a29404ef4559e642e52f33263c985dc828f2d1d7ca108f5c74343404831a644f"
+    url = "https://github.com/chrisdjscott/DACE_jll.jl/releases/download/DACE-v0.0.12+0/DACE.v0.0.12.x86_64-linux-gnu-cxx03-julia_version+1.11.0.tar.gz"
+[[DACE]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "789c3e58ef4d886b7bbf2ed5b111c5a3019c5212"
+julia_version = "1.12.0"
+libc = "glibc"
+os = "linux"
+
+    [[DACE.download]]
+    sha256 = "dcf023fb0cb1449517c91e05eac09ca74affa53e3e6436f877e788562bd80618"
+    url = "https://github.com/chrisdjscott/DACE_jll.jl/releases/download/DACE-v0.0.12+0/DACE.v0.0.12.x86_64-linux-gnu-cxx03-julia_version+1.12.0.tar.gz"
+[[DACE]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "191e41fe7dbd4e9c339fafc352490eab13f7420a"
+julia_version = "1.6.3"
+libc = "glibc"
+os = "linux"
+
+    [[DACE.download]]
+    sha256 = "d402f22c151771ead35993193c0506938e886b63fe49f43b7bc393630cb537b6"
+    url = "https://github.com/chrisdjscott/DACE_jll.jl/releases/download/DACE-v0.0.12+0/DACE.v0.0.12.x86_64-linux-gnu-cxx03-julia_version+1.6.3.tar.gz"
+[[DACE]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "955a7259a42d40e8c31cc7d7f4266b0a7adf791c"
+julia_version = "1.7.0"
+libc = "glibc"
+os = "linux"
+
+    [[DACE.download]]
+    sha256 = "d1f6622c9eb0195a52fea0094af32ccc6b091b2300d7e23c27cf4b6dad1bd2ac"
+    url = "https://github.com/chrisdjscott/DACE_jll.jl/releases/download/DACE-v0.0.12+0/DACE.v0.0.12.x86_64-linux-gnu-cxx03-julia_version+1.7.0.tar.gz"
+[[DACE]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "e5fce603a39ea1c662a5d82d050e32ed982f2535"
+julia_version = "1.8.2"
+libc = "glibc"
+os = "linux"
+
+    [[DACE.download]]
+    sha256 = "eaaebc328b9457d42cda56e48d3ae8f6ee2803469b5ee469eb6b1e7912890efd"
+    url = "https://github.com/chrisdjscott/DACE_jll.jl/releases/download/DACE-v0.0.12+0/DACE.v0.0.12.x86_64-linux-gnu-cxx03-julia_version+1.8.2.tar.gz"
+[[DACE]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "50dbaebf196395ed51cf5603e4f92ca136027523"
+julia_version = "1.9.0"
+libc = "glibc"
+os = "linux"
+
+    [[DACE.download]]
+    sha256 = "809887ce37fde0c5729327ea62c5791181a32d2ff49c408e00a59a671e386e01"
+    url = "https://github.com/chrisdjscott/DACE_jll.jl/releases/download/DACE-v0.0.12+0/DACE.v0.0.12.x86_64-linux-gnu-cxx03-julia_version+1.9.0.tar.gz"
+[[DACE]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "da1bce7ef67ab0adeaa1c16f658514767ae5c333"
+julia_version = "1.10.0"
+libc = "glibc"
+os = "linux"
+
+    [[DACE.download]]
+    sha256 = "f963f42106195dd8909838b2d6f425a7de90cc1e39e492106ef1aedc23b80797"
+    url = "https://github.com/chrisdjscott/DACE_jll.jl/releases/download/DACE-v0.0.12+0/DACE.v0.0.12.x86_64-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
+[[DACE]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "f83fe74ed043be0fcf12d930becd99407ed336b2"
+julia_version = "1.11.0"
+libc = "glibc"
+os = "linux"
+
+    [[DACE.download]]
+    sha256 = "1081c1ae4dff5ae00a39bab7f8651cb070fa49f2657fa76149742c782937a1e2"
+    url = "https://github.com/chrisdjscott/DACE_jll.jl/releases/download/DACE-v0.0.12+0/DACE.v0.0.12.x86_64-linux-gnu-cxx11-julia_version+1.11.0.tar.gz"
+[[DACE]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "6d7b6beaa2b8b60a7ee45816c61a644cf36ff753"
+julia_version = "1.12.0"
+libc = "glibc"
+os = "linux"
+
+    [[DACE.download]]
+    sha256 = "addf1a3925bcce1eb6c492e8f8cb92205643de16e6e98ba2d190635503a51181"
+    url = "https://github.com/chrisdjscott/DACE_jll.jl/releases/download/DACE-v0.0.12+0/DACE.v0.0.12.x86_64-linux-gnu-cxx11-julia_version+1.12.0.tar.gz"
+[[DACE]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "9a2da17982797c3b42cb481cde8fe7836ef375fe"
+julia_version = "1.6.3"
+libc = "glibc"
+os = "linux"
+
+    [[DACE.download]]
+    sha256 = "5f91e1b697ed59b5eccc159a5cf0d84b7386c99016d2dee16cca3c9a42e1a6b6"
+    url = "https://github.com/chrisdjscott/DACE_jll.jl/releases/download/DACE-v0.0.12+0/DACE.v0.0.12.x86_64-linux-gnu-cxx11-julia_version+1.6.3.tar.gz"
+[[DACE]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "2619c9b1b58bb349b746e92432ca8facdd8aa22b"
+julia_version = "1.7.0"
+libc = "glibc"
+os = "linux"
+
+    [[DACE.download]]
+    sha256 = "b5ef606bf989ead49770da9b9b083c3f1066fbb29a81d9b324d3e1333747bfc0"
+    url = "https://github.com/chrisdjscott/DACE_jll.jl/releases/download/DACE-v0.0.12+0/DACE.v0.0.12.x86_64-linux-gnu-cxx11-julia_version+1.7.0.tar.gz"
+[[DACE]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "4ee9551cbc06a4ea96c6252e4dab076d84c78b48"
+julia_version = "1.8.2"
+libc = "glibc"
+os = "linux"
+
+    [[DACE.download]]
+    sha256 = "3a4e02a494e5e0162229d85afe0b9390e930b38d3a3bd0d06ee1d3800fd62ec2"
+    url = "https://github.com/chrisdjscott/DACE_jll.jl/releases/download/DACE-v0.0.12+0/DACE.v0.0.12.x86_64-linux-gnu-cxx11-julia_version+1.8.2.tar.gz"
+[[DACE]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "a7cd3c8d93ba704ad3ca121a7c9f1ed884dae412"
+julia_version = "1.9.0"
+libc = "glibc"
+os = "linux"
+
+    [[DACE.download]]
+    sha256 = "992ef512fc6f7f3dcefada8868dfbeaf6b3ea5ff586619bbc1c8a8cf49b77095"
+    url = "https://github.com/chrisdjscott/DACE_jll.jl/releases/download/DACE-v0.0.12+0/DACE.v0.0.12.x86_64-linux-gnu-cxx11-julia_version+1.9.0.tar.gz"
+[[DACE]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "f2fe1d3fb38db44a2dc73790bf581e3955a60ed2"
+julia_version = "1.10.0"
+libc = "musl"
+os = "linux"
+
+    [[DACE.download]]
+    sha256 = "d155c1ba180ef8c000445bc3cf194cfb42e01ec3e3a8e48fcc78052a76776470"
+    url = "https://github.com/chrisdjscott/DACE_jll.jl/releases/download/DACE-v0.0.12+0/DACE.v0.0.12.x86_64-linux-musl-cxx03-julia_version+1.10.0.tar.gz"
+[[DACE]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "4f61f322dc8511a981f89af96fc063efee41d475"
+julia_version = "1.11.0"
+libc = "musl"
+os = "linux"
+
+    [[DACE.download]]
+    sha256 = "fcaa0b9cf9710872ea2a7685555c9551e25f7a314c4d002bfb36e305cf4e14b3"
+    url = "https://github.com/chrisdjscott/DACE_jll.jl/releases/download/DACE-v0.0.12+0/DACE.v0.0.12.x86_64-linux-musl-cxx03-julia_version+1.11.0.tar.gz"
+[[DACE]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "bf927050a8375f66879b8abc7a7b995a29327e08"
+julia_version = "1.12.0"
+libc = "musl"
+os = "linux"
+
+    [[DACE.download]]
+    sha256 = "2a5192e73cb90bb068d90bfe5ee78c04b00d92cc91955e8bbf6ac0e460d696f5"
+    url = "https://github.com/chrisdjscott/DACE_jll.jl/releases/download/DACE-v0.0.12+0/DACE.v0.0.12.x86_64-linux-musl-cxx03-julia_version+1.12.0.tar.gz"
+[[DACE]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "052b2a3b4d9e88052f7d614e6818d0c479c3ab88"
+julia_version = "1.6.3"
+libc = "musl"
+os = "linux"
+
+    [[DACE.download]]
+    sha256 = "90bf4dd5d965d1a18fb75bf783474c451a20c460580e9a696346af9ee615a027"
+    url = "https://github.com/chrisdjscott/DACE_jll.jl/releases/download/DACE-v0.0.12+0/DACE.v0.0.12.x86_64-linux-musl-cxx03-julia_version+1.6.3.tar.gz"
+[[DACE]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "ec506900cb36e7d0277842e97c4ee0550a640009"
+julia_version = "1.7.0"
+libc = "musl"
+os = "linux"
+
+    [[DACE.download]]
+    sha256 = "ef89f6940c233850e1d87559396454b8a79e4ad757c1bf8c1c6494868a1f9598"
+    url = "https://github.com/chrisdjscott/DACE_jll.jl/releases/download/DACE-v0.0.12+0/DACE.v0.0.12.x86_64-linux-musl-cxx03-julia_version+1.7.0.tar.gz"
+[[DACE]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "8a5661cea0435912a084c27f044563e1fb3c204b"
+julia_version = "1.8.2"
+libc = "musl"
+os = "linux"
+
+    [[DACE.download]]
+    sha256 = "2d8dae0a9874263f9fd5129600cc3257970887d27bf06e818e2c82e24f78bc9b"
+    url = "https://github.com/chrisdjscott/DACE_jll.jl/releases/download/DACE-v0.0.12+0/DACE.v0.0.12.x86_64-linux-musl-cxx03-julia_version+1.8.2.tar.gz"
+[[DACE]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "25f633ce16a142ab454702fc4e563d2cf2ca0082"
+julia_version = "1.9.0"
+libc = "musl"
+os = "linux"
+
+    [[DACE.download]]
+    sha256 = "7eb3bfd6690c6971f4f2b544780a19c522c4fcdd4e9cbb01c127937d3fb75b3b"
+    url = "https://github.com/chrisdjscott/DACE_jll.jl/releases/download/DACE-v0.0.12+0/DACE.v0.0.12.x86_64-linux-musl-cxx03-julia_version+1.9.0.tar.gz"
+[[DACE]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "51ad256770f294469fcd60cf6b38de00d5cf1cae"
+julia_version = "1.10.0"
+libc = "musl"
+os = "linux"
+
+    [[DACE.download]]
+    sha256 = "c8032df51fb1771959cc4de443a9d3f0c75187e703c0edd7137ba7e32ad96f38"
+    url = "https://github.com/chrisdjscott/DACE_jll.jl/releases/download/DACE-v0.0.12+0/DACE.v0.0.12.x86_64-linux-musl-cxx11-julia_version+1.10.0.tar.gz"
+[[DACE]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "6559028d0b0c926f632df4ec1cf1e227def3468e"
+julia_version = "1.11.0"
+libc = "musl"
+os = "linux"
+
+    [[DACE.download]]
+    sha256 = "ff71ae61d3205afacc6a4991cb1d6bbea3486a1b6f7766ca0c31cc475940ba17"
+    url = "https://github.com/chrisdjscott/DACE_jll.jl/releases/download/DACE-v0.0.12+0/DACE.v0.0.12.x86_64-linux-musl-cxx11-julia_version+1.11.0.tar.gz"
+[[DACE]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "2ccdee976a084bb9147c07af0dac2241edf6bc8d"
+julia_version = "1.12.0"
+libc = "musl"
+os = "linux"
+
+    [[DACE.download]]
+    sha256 = "e1000c3e69cabf2687bb055bb9d0a55bc5aa7a1ef12fce2b62192c26bc2f83fe"
+    url = "https://github.com/chrisdjscott/DACE_jll.jl/releases/download/DACE-v0.0.12+0/DACE.v0.0.12.x86_64-linux-musl-cxx11-julia_version+1.12.0.tar.gz"
+[[DACE]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "e9741582156fcc3f727cd2d1e1bde00f1c09050d"
+julia_version = "1.6.3"
+libc = "musl"
+os = "linux"
+
+    [[DACE.download]]
+    sha256 = "7f120243cd9a2b3ac6e77c0f5881520989a1c98abb45910c875426ef4fd08d61"
+    url = "https://github.com/chrisdjscott/DACE_jll.jl/releases/download/DACE-v0.0.12+0/DACE.v0.0.12.x86_64-linux-musl-cxx11-julia_version+1.6.3.tar.gz"
+[[DACE]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "1d1c58161b98561e7c796a379caed5acfe17aa9e"
+julia_version = "1.7.0"
+libc = "musl"
+os = "linux"
+
+    [[DACE.download]]
+    sha256 = "93dcf319257ae113b14902dc7cf97dd5f0d0fb94e5261c22203007f342c530ce"
+    url = "https://github.com/chrisdjscott/DACE_jll.jl/releases/download/DACE-v0.0.12+0/DACE.v0.0.12.x86_64-linux-musl-cxx11-julia_version+1.7.0.tar.gz"
+[[DACE]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "55f8ad4f11464ac56820bf25436694c734ed1b36"
+julia_version = "1.8.2"
+libc = "musl"
+os = "linux"
+
+    [[DACE.download]]
+    sha256 = "6e63b70eebdc58cef05e9c965573144fc22282a754a233df145e00ccbd8a55e6"
+    url = "https://github.com/chrisdjscott/DACE_jll.jl/releases/download/DACE-v0.0.12+0/DACE.v0.0.12.x86_64-linux-musl-cxx11-julia_version+1.8.2.tar.gz"
+[[DACE]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "ec328ae8fc356254081d09ff048937e6b3815a01"
+julia_version = "1.9.0"
+libc = "musl"
+os = "linux"
+
+    [[DACE.download]]
+    sha256 = "79bb078a24672de7feee93e505cbcbd1f8cd31989f1c9d81f941c0ef5e046994"
+    url = "https://github.com/chrisdjscott/DACE_jll.jl/releases/download/DACE-v0.0.12+0/DACE.v0.0.12.x86_64-linux-musl-cxx11-julia_version+1.9.0.tar.gz"
+[[DACE]]
+arch = "x86_64"
+git-tree-sha1 = "80c2771c5f41ddd4001ae90767c4f910a00f00f6"
+julia_version = "1.10.0"
+os = "freebsd"
+
+    [[DACE.download]]
+    sha256 = "27cab7d1abb536c09060e01d39227a758a057e16a1191f7def75adc2467840d6"
+    url = "https://github.com/chrisdjscott/DACE_jll.jl/releases/download/DACE-v0.0.12+0/DACE.v0.0.12.x86_64-unknown-freebsd-julia_version+1.10.0.tar.gz"
+[[DACE]]
+arch = "x86_64"
+git-tree-sha1 = "d4aaf0c884e9306c545266a8073d6a7aa4270fd3"
+julia_version = "1.11.0"
+os = "freebsd"
+
+    [[DACE.download]]
+    sha256 = "cdb5291ee5418f3374cc2e16041dde8d0989907ff734ddd10d0d22f9344b5ffe"
+    url = "https://github.com/chrisdjscott/DACE_jll.jl/releases/download/DACE-v0.0.12+0/DACE.v0.0.12.x86_64-unknown-freebsd-julia_version+1.11.0.tar.gz"
+[[DACE]]
+arch = "x86_64"
+git-tree-sha1 = "ceec837f0770f3787d863f22092d927ff3255dd8"
+julia_version = "1.12.0"
+os = "freebsd"
+
+    [[DACE.download]]
+    sha256 = "cac76bedf464a787d02327357a51fe78c38715f006b4e08b17b8b77ade5987df"
+    url = "https://github.com/chrisdjscott/DACE_jll.jl/releases/download/DACE-v0.0.12+0/DACE.v0.0.12.x86_64-unknown-freebsd-julia_version+1.12.0.tar.gz"
+[[DACE]]
+arch = "x86_64"
+git-tree-sha1 = "1e1c89b6ba2b83d89b68b484e953b9fbd8ef5f01"
+julia_version = "1.6.3"
+os = "freebsd"
+
+    [[DACE.download]]
+    sha256 = "18d6ac2d1f04d773d52a95c73625fd39c532e8a81ebd1e1222102f3ce22db46f"
+    url = "https://github.com/chrisdjscott/DACE_jll.jl/releases/download/DACE-v0.0.12+0/DACE.v0.0.12.x86_64-unknown-freebsd-julia_version+1.6.3.tar.gz"
+[[DACE]]
+arch = "x86_64"
+git-tree-sha1 = "355492153fa73e1ff510969654f1c72edd2b4bc5"
+julia_version = "1.7.0"
+os = "freebsd"
+
+    [[DACE.download]]
+    sha256 = "84f1e6ca798c82121caf966391a40f16772916d65240a664fa7aa5115feb53ea"
+    url = "https://github.com/chrisdjscott/DACE_jll.jl/releases/download/DACE-v0.0.12+0/DACE.v0.0.12.x86_64-unknown-freebsd-julia_version+1.7.0.tar.gz"
+[[DACE]]
+arch = "x86_64"
+git-tree-sha1 = "49a78f49b72f595141dd4d4bd34b24afa6cb8d35"
+julia_version = "1.8.2"
+os = "freebsd"
+
+    [[DACE.download]]
+    sha256 = "7a9f8f9a75b54e7c76f9c7a2434213d62c21603cb0908f8d4a0fb5628469f464"
+    url = "https://github.com/chrisdjscott/DACE_jll.jl/releases/download/DACE-v0.0.12+0/DACE.v0.0.12.x86_64-unknown-freebsd-julia_version+1.8.2.tar.gz"
+[[DACE]]
+arch = "x86_64"
+git-tree-sha1 = "b5321453003f270f8249ef94915f09f25caa3a43"
+julia_version = "1.9.0"
+os = "freebsd"
+
+    [[DACE.download]]
+    sha256 = "74bc4b426b804b47933dc5ab5a0791f315a3406f810deecc2b8465fcb0bcccb4"
+    url = "https://github.com/chrisdjscott/DACE_jll.jl/releases/download/DACE-v0.0.12+0/DACE.v0.0.12.x86_64-unknown-freebsd-julia_version+1.9.0.tar.gz"
+[[DACE]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "c313f779c3f86180667df1e353211f2f0b210b36"
+julia_version = "1.10.0"
+os = "windows"
+
+    [[DACE.download]]
+    sha256 = "d9a977dfb65a1a8baa699119362b480ebc3619252880c4e9d80d06817f6c4744"
+    url = "https://github.com/chrisdjscott/DACE_jll.jl/releases/download/DACE-v0.0.12+0/DACE.v0.0.12.x86_64-w64-mingw32-cxx03-julia_version+1.10.0.tar.gz"
+[[DACE]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "c558ffcf168a0550ebcab1c380d5a6f69f7e5f72"
+julia_version = "1.11.0"
+os = "windows"
+
+    [[DACE.download]]
+    sha256 = "ebbabc83ecca2e8bb15d5667d143c8c9c526f3169ea2f76740d24a8b6d4df281"
+    url = "https://github.com/chrisdjscott/DACE_jll.jl/releases/download/DACE-v0.0.12+0/DACE.v0.0.12.x86_64-w64-mingw32-cxx03-julia_version+1.11.0.tar.gz"
+[[DACE]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "945c76959d5546bf337a07114f52a0a61d6597a1"
+julia_version = "1.12.0"
+os = "windows"
+
+    [[DACE.download]]
+    sha256 = "f5bb326b51dcbf66ccbd5d60290e905c2dd30d951746d8e3f8d95f35cf1c8a83"
+    url = "https://github.com/chrisdjscott/DACE_jll.jl/releases/download/DACE-v0.0.12+0/DACE.v0.0.12.x86_64-w64-mingw32-cxx03-julia_version+1.12.0.tar.gz"
+[[DACE]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "c31d6ca4cf4a8f664983d2af83529d930b53af66"
+julia_version = "1.6.3"
+os = "windows"
+
+    [[DACE.download]]
+    sha256 = "757fd416ec197abcdf9b49b10c8c78287923e3953c8d4ba88dbbd191b8bcab98"
+    url = "https://github.com/chrisdjscott/DACE_jll.jl/releases/download/DACE-v0.0.12+0/DACE.v0.0.12.x86_64-w64-mingw32-cxx03-julia_version+1.6.3.tar.gz"
+[[DACE]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "4f1d07e09d5beff13df5fc9b91419fc7e3374ad8"
+julia_version = "1.7.0"
+os = "windows"
+
+    [[DACE.download]]
+    sha256 = "ffaa878dd572b1bff402226299372a45b68e629cc6232c3d76f7333bbfaa2162"
+    url = "https://github.com/chrisdjscott/DACE_jll.jl/releases/download/DACE-v0.0.12+0/DACE.v0.0.12.x86_64-w64-mingw32-cxx03-julia_version+1.7.0.tar.gz"
+[[DACE]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "9de6e8604c2546b2c6987f3f16674c185e6c695c"
+julia_version = "1.8.2"
+os = "windows"
+
+    [[DACE.download]]
+    sha256 = "1f02214f80dcb2140622a57c07fff1ca44b72097f0526a289eb5d9cdc53623c4"
+    url = "https://github.com/chrisdjscott/DACE_jll.jl/releases/download/DACE-v0.0.12+0/DACE.v0.0.12.x86_64-w64-mingw32-cxx03-julia_version+1.8.2.tar.gz"
+[[DACE]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "8f556c16f022cec0aa68f575653424a9bede324c"
+julia_version = "1.9.0"
+os = "windows"
+
+    [[DACE.download]]
+    sha256 = "bdc19b83a935018344827cc1a847caf7c24c62ba25e3e2f7bba3e7f1b397423d"
+    url = "https://github.com/chrisdjscott/DACE_jll.jl/releases/download/DACE-v0.0.12+0/DACE.v0.0.12.x86_64-w64-mingw32-cxx03-julia_version+1.9.0.tar.gz"
+[[DACE]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "f0c42588bf59c66c1eb3fe3524aefc25b821e17b"
+julia_version = "1.10.0"
+os = "windows"
+
+    [[DACE.download]]
+    sha256 = "1753f99c405b3fa12d8d2793b743998f4638a6e7898b1a48cfe315359c83298c"
+    url = "https://github.com/chrisdjscott/DACE_jll.jl/releases/download/DACE-v0.0.12+0/DACE.v0.0.12.x86_64-w64-mingw32-cxx11-julia_version+1.10.0.tar.gz"
+[[DACE]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "9b527c635e83de709db7ce1843d1507ba771c8a7"
+julia_version = "1.11.0"
+os = "windows"
+
+    [[DACE.download]]
+    sha256 = "126acd93cbbf6aed2102fcf0ceb1e0c03138dcc959f9b667739500012b805a8f"
+    url = "https://github.com/chrisdjscott/DACE_jll.jl/releases/download/DACE-v0.0.12+0/DACE.v0.0.12.x86_64-w64-mingw32-cxx11-julia_version+1.11.0.tar.gz"
+[[DACE]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "df60844308eb0760ee6efaf31a86f75b44a6fd3a"
+julia_version = "1.12.0"
+os = "windows"
+
+    [[DACE.download]]
+    sha256 = "f24b7ec8407c4ccf3919f9db6a4a6053172bc3875ecc2f1ba693b6c0796c809f"
+    url = "https://github.com/chrisdjscott/DACE_jll.jl/releases/download/DACE-v0.0.12+0/DACE.v0.0.12.x86_64-w64-mingw32-cxx11-julia_version+1.12.0.tar.gz"
+[[DACE]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "635613b1b9cc9641a7b05d2133195eed8f8398ce"
+julia_version = "1.6.3"
+os = "windows"
+
+    [[DACE.download]]
+    sha256 = "9563db396b2c395d5647fe1db069a695ca023b270f6129059db0d40a65b2afcd"
+    url = "https://github.com/chrisdjscott/DACE_jll.jl/releases/download/DACE-v0.0.12+0/DACE.v0.0.12.x86_64-w64-mingw32-cxx11-julia_version+1.6.3.tar.gz"
+[[DACE]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "96a4a737164c72c56e219cb63e958411607e5e23"
+julia_version = "1.7.0"
+os = "windows"
+
+    [[DACE.download]]
+    sha256 = "507e5c58a9a2721414851e9d6e369f6069fbbb6229252a693caed0830bec3574"
+    url = "https://github.com/chrisdjscott/DACE_jll.jl/releases/download/DACE-v0.0.12+0/DACE.v0.0.12.x86_64-w64-mingw32-cxx11-julia_version+1.7.0.tar.gz"
+[[DACE]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "d6efd27c43b9e08a1bb2d225597c20b639cb1642"
+julia_version = "1.8.2"
+os = "windows"
+
+    [[DACE.download]]
+    sha256 = "400a32ebde3738819dfed1f2677e7cfa80d8ce318fd895665aa96394d5197612"
+    url = "https://github.com/chrisdjscott/DACE_jll.jl/releases/download/DACE-v0.0.12+0/DACE.v0.0.12.x86_64-w64-mingw32-cxx11-julia_version+1.8.2.tar.gz"
+[[DACE]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "ce4fd7524f305875468d95a69ca01b93cde97cdc"
+julia_version = "1.9.0"
+os = "windows"
+
+    [[DACE.download]]
+    sha256 = "c407b002e8faab3684c78bedf0116d72dbb28b485a5c32b2f548bb8a1f97f94a"
+    url = "https://github.com/chrisdjscott/DACE_jll.jl/releases/download/DACE-v0.0.12+0/DACE.v0.0.12.x86_64-w64-mingw32-cxx11-julia_version+1.9.0.tar.gz"
